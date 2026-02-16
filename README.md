@@ -1,25 +1,78 @@
-<h1 align="center">🤗, I'm Torikul Islam Oli</h1>
-<h3 align="center">A passionate software developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Torikul Islam Oli</h1>
+<h3 align="center">Software Developer | Python (Django) | PostgreSQL | Data & Web Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olisheikh&label=Profile%20views&color=0e75b6&style=flat" alt="olisheikh" /> </p>
-
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **JavaScript, Python**
-
-- 📫 How to reach me **olisheikh707@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/torikulislamoli7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torikulislamoli7" height="30" width="40" /></a>
-<a href="https://fb.com/torikul islam oli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="torikul islam oli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/olisheikh707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="olisheikh707" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:olisheikh707@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/torikulislamoli7" target="_blank">LinkedIn</a> •
+  <a href="https://www.leetcode.com/olisheikh707" target="_blank">LeetCode</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">  </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=olisheikh&label=Profile%20Views&color=0e75b6&style=flat" alt="olisheikh" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olisheikh&show_icons=true&locale=en&layout=compact" alt="olisheikh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olisheikh&show_icons=true&locale=en" alt="olisheikh" /></p>
+## 👨‍💻 About Me
+- 🎓 Master’s student in **International Software Systems Science** at the **University of Bamberg**
+- 🛠️ Currently working with **Python, Django, PostgreSQL**
+- 🔥 Interested in **Backend Development, APIs, Data Analytics, and System Design**
+- 📌 Built projects like an **Inventory Management System** and **Face Recognition Attendance System**
+- 📫 Reach me at: **olisheikh707@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+- Python, JavaScript, SQL, C/C++, Java
+
+### **Backend & Frameworks**
+- Django, Django REST Framework, FastAPI, Flask
+
+### **Databases**
+- PostgreSQL, SQLite, MongoDB, Firebase
+
+### **Frontend**
+- HTML, CSS, React.js, Tailwind CSS, Bootstrap
+
+### **Tools & DevOps**
+- Docker, Git, GitHub, Postman
+
+### **Data & ML**
+- Pandas, Matplotlib, OpenCV, Scikit-learn
+
+---
+
+## 🚀 Featured Projects
+### 📦 Rupali Inventory (Django + PostgreSQL)
+A web-based inventory and billing management system where users can manage stock items, generate bills, and store transaction data in a database.  
+🔗 Repo: https://github.com/SISLAM-ORG/rupali-inventory
+
+### 👤 Automatic Attendance System (Face Recognition)
+A computer vision-based attendance system using OpenCV and ML models for face detection and recognition.  
+📄 Publication: https://baust.edu.bd/journal/wp-content/uploads/sites/31/2025/05/9.pdf
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olisheikh&show_icons=true&locale=en" alt="Torikul GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olisheikh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/torikulislamoli7" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torikulislamoli7" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/olisheikh707" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="olisheikh707" height="30" width="40" />
+</a>
+</p>
