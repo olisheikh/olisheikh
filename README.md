@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Torikul Islam Oli</h1>
-<h3 align="center">Software Developer | Python (Django) | PostgreSQL | Data & Web Applications</h3>
+<h3 align="center">Software Developer | Python (Django)</h3>
 
 <p align="center">
-  <a href="mailto:olisheikh707@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/torikulislamoli7" target="_blank">LinkedIn</a> •
-  <a href="https://www.leetcode.com/olisheikh707" target="_blank">LeetCode</a>
+  <a href="mailto:olisheikh707@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="32" height="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/torikulislamoli7" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="32" height="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/olisheikh707" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="32" height="32"/>
+  </a>
 </p>
 
 <p align="center">
